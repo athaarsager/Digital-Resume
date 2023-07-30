@@ -1,0 +1,152 @@
+body 
+{
+  background-color: #f0f0f0;
+  margin: -10px;
+  border-left: 110px solid lightgray;
+  border-right: 110px solid lightgray;
+  border-top: 60px solid lightgray;
+  border-bottom: 60px solid lightgray;
+  padding-left: 100px;
+  padding-right:100px;
+}
+
+.header
+{
+  color: black;
+  font-size: 30px;
+}
+
+.contact-info 
+{
+  margin-top: -50px;
+}
+
+.objective-header
+{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.objective
+{
+  background-color:#c5d5c5;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
+
+.objective-text
+{
+  padding-top: 10px;
+}
+
+h4
+{
+  margin-top: -10px;
+  font-size: 18px;
+}
+
+.edupic
+{
+  width: 20%;
+  height: 20%;
+  padding-left: 150px;
+}
+
+.edu-header
+
+{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.education 
+{
+  background-color: #9fa9a3;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.work-header
+{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.workpic
+{
+  width: 25%;
+  height: 25%;
+  padding-left: 50px;
+}
+
+.work 
+{
+  background-color: #e3e0cc;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.honors-header
+{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.awardpic
+{
+  width: 40%;
+  height: 40%;
+  padding-left: 30px;
+}
+
+.honors-and-awards
+{
+  background-color: #c5d5c5;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.activities-header
+{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.music-pic
+{
+  width: 30%;
+  height: 30%;
+  padding-left: 130px;
+}
+
+.activities
+{
+  background-color: #9fa9a3;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.references
+{
+  background-color: #e3e0cc;
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 10px;
+}
